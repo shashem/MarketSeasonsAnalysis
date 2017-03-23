@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSeasonsAnalysis", "MarketSeasonsAnalysis\MarketSeasonsAnalysis.csproj", "{BE9284BB-B759-4623-9F48-EC276406DB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSeasonsAnalysis.Tests", "MarketSeasonsAnalysis.Tests\MarketSeasonsAnalysis.Tests.csproj", "{BEE39731-4524-4674-8F27-596953D1EA99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9284BB-B759-4623-9F48-EC276406DB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9284BB-B759-4623-9F48-EC276406DB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9284BB-B759-4623-9F48-EC276406DB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9284BB-B759-4623-9F48-EC276406DB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE39731-4524-4674-8F27-596953D1EA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE39731-4524-4674-8F27-596953D1EA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE39731-4524-4674-8F27-596953D1EA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE39731-4524-4674-8F27-596953D1EA99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
