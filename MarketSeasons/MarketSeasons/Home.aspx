@@ -3,4 +3,7 @@
 <asp:Content ID="HomeHead" ContentPlaceHolderID="headPlaceHolder" runat="server">
 </asp:Content>
 <asp:Content ID="HomeBody" ContentPlaceHolderID="BodyPlaceHolder" runat="server">
+   <asp:Literal ID="Test" runat="server"></asp:Literal>
+
+    END TEST
 </asp:Content>
